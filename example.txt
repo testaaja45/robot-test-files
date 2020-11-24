@@ -1,2 +1,1 @@
-new content
-saving after refactor with commit message123
+conflict
