@@ -2,7 +2,7 @@
 Documentation     An example executing a loop only two times.
 
 *** Variables ***
-@{ROBOTS}=        Bender    Johnny5    Terminator    Robocop
+@{ROBOTS}=        Bender    Johnny5    Arska    Robocop
 
 *** Tasks ***
 Execute a loop only two times
