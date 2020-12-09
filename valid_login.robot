@@ -13,3 +13,11 @@ Valid Login
     Submit Credentials
     Welcome Page Should Be Open
     [Teardown]    Close Browser
+
+Bad Login
+    Open Browser To Login Page
+    Input Username    bad
+    Input Password    bad
+    Submit Credentials
+    Welcome Page Should Be Not Open
+    [Teardown]    Close Browser
