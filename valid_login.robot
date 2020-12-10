@@ -21,3 +21,12 @@ Bad Login
     Submit Credentials
     Welcome Page Should Be Not Open
     [Teardown]    Close Browser
+
+*** Keywords ***
+Browser is opened to login page
+    Open browser to login page
+
+User "${username}" logs in with password "${password}"
+    Input username    ${username}
+    Input password    ${password}
+    Submit credentials
