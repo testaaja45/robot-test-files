@@ -17,7 +17,7 @@ Valid Login
 Bad Login
     Open Browser To Login Page
     Input Username    bad123
-    Input Password    bad
+    Input Password    bad2
     Submit Credentials
     Welcome Page Should Be Not Open
     [Teardown]    Close Browser
