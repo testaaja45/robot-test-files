@@ -6,4 +6,3 @@ From Amandus with love
 
 Commiting from GH
 
-Let's merge!
