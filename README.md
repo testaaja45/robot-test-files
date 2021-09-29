@@ -6,4 +6,4 @@ From Amandus with love
 
 Commiting from GH
 
-gh line
+amandusline
